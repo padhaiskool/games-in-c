@@ -8,7 +8,7 @@
 #include "hang.c"
 
 int main(){
-    system("color 70");
+    system("color 07");
 	    int opt;
 
     do{
